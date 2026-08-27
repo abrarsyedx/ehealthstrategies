@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-11",
+  "lastUpdated": "2026-08-27",
   "countries": [
    
     {
@@ -101,7 +101,7 @@
       "strategies": [
         {
           "title": "eHealth Strategy Austria 2024-2028",
-          "description": "",
+          "description": "Outlines Austria's national eHealth Strategy for 2024–2028, establishing a unified roadmap across federal, state, and social insurance entities to improve healthcare access, expand health telematics infrastructure, integrate telehealth services, and strengthen secondary data usage and digital health skills.",
           "documentUrl": "documents/austria/austria-ehealth-strategy-2024.pdf",
           "year": 2024,
           "language": "English"
@@ -117,7 +117,7 @@
       "strategies": [
         {
           "title": "Protocol Agreement of the Interministerial Conference on Public Health Containing e-Health Action Plan 2022-2024",
-          "description": "",
+          "description": "Outlines a national strategic framework organised into six key functional clusters to implement the Belgian Integrated Health Record (BIHR), support the secondary use of health data through a Health Data Authority, and align national digital health infrastructure with the European Health Data Space (EHDS).",
           "documentUrl": "documents/belgium/belgium-ehealth-actionplan-2022.pdf",
           "year": 2022,
           "language": "Dutch, French"
@@ -133,7 +133,7 @@
       "strategies": [
         {
           "title": "National Strategy for Electronic Healthcare and Digitalisation of Health System 2024-2030",
-          "description": "",
+          "description": "Establishes Bulgaria's long-term framework for digitalising its national healthcare system by expanding the National Health Information System (NHIS), establishing standards for electronic health records and telemedicine, ensuring cybersecurity and data privacy in line with EU frameworks, and enabling data-driven healthcare management and cross-border interoperability.",
           "documentUrl": "documents/bulgaria/bulgaria_ehealth_strategy_2024.pdf",
           "year": 2024,
           "language": "Bulgarian, English"
@@ -148,7 +148,7 @@
       "strategies": [
         {
           "title": "National Health Development Plan 2021-2027",
-          "description": "",
+          "description": "Outlines Croatia's medium-term priorities to modernise healthcare delivery, integrate eHealth digital infrastructure and data systems, improve population health outcomes, and enhance overall system efficiency and sustainability.",
           "documentUrl": "documents/croatia/croatia-health-developmentplan-2021.pdf",
           "year": 2021,
           "language": "Croatian",
@@ -165,7 +165,7 @@
       "strategies": [
         {
           "title": "National eHealth Strategy of the Czech Republic 2016-2020",
-          "description": "",
+          "description": "Outlines the Czech Republic's national framework for modernising its health sector by establishing core digital infrastructure, empowering patient involvement, improving healthcare system efficiency and accessibility, and implementing eHealth interoperability standards and governance structures.",
           "documentUrl": "documents/czech/czech_ehealth_strategy_2016.pdf",
           "year": 2016,
           "language": "Czech, English"
@@ -180,7 +180,7 @@
       "strategies": [
         {
           "title": "Digital Health Strategy 2018-2022",
-          "description": "",
+          "description": "Establishes a nationwide framework to connect hospitals, general practitioners, and municipal healthcare services through integrated digital solutions, prioritising patient involvement, seamless cross-sector data sharing, preventive care, and robust cyber and data security.",
           "documentUrl": "documents/denmark/denmark_digital_health_strategy_2018_2022.pdf",
           "year": 2018,
           "language": "Danish, English"
@@ -195,7 +195,7 @@
       "strategies": [
         {
           "title": "Estonian eHealth Strategic Development Plan 2020-2025",
-          "description": "",
+          "description": "Outlines Estonia's national roadmap through 2020 and vision for 2025 to modernise its digital health ecosystem by strengthening data infrastructure and interoperability, advancing personalised medicine, improving cross-sectoral service integration, and expanding remote care capabilities.",
           "documentUrl": "documents/estonia/estonia_ehealth_strategy_2020_2025.pdf",
           "year": 2020,
           "language": "English"
@@ -210,7 +210,7 @@
       "strategies": [
         {
           "title": "Strategy for digitalisation and information management in healthcare and social welfare 2023-2035",
-          "description": "",
+          "description": "Outlines a long-term framework to establish digitalisation as the primary foundation of the national healthcare and social welfare system by empowering self-care, prioritising digital service channels, easing personnel workloads through advanced technology, and expanding secure data access for decision-making and research.",
           "documentUrl": "documents/finland/finland_ehealth_strategy_2023_2035.pdf",
           "year": 2023,
           "language": "Finnish, English"
@@ -226,7 +226,7 @@
       "strategies": [
         {
           "title": "Digitalisation Strategy for Health and Care 2023-2030",
-          "description": "",
+          "description": "Outlines a national roadmap through 2030 to establish a person-centred digital ecosystem centred around opt-out electronic patient records (ePA), expanded telemedicine access, paperless workflows, and integrated health data for research and care improvement.",
           "documentUrl": "documents/germany/germany_digital_health_strategy_2023_2030.pdf",
           "year": 2023,
           "language": "English"
@@ -242,7 +242,7 @@
       "strategies": [
         {
           "title": "Digital for Care —A Digital Health Framework for Ireland 2024-2030",
-          "description": "",
+          "description": "Outlines Ireland's strategic vision to modernise its health and social care system by leveraging electronic health records, virtual care, and data-driven insights across six core principles to empower patients and support healthcare professionals.",
           "documentUrl": "documents/ireland/ireland_digital_health_framework_2024_2030.pdf",
           "year": 2024,
           "language": "English"
@@ -257,7 +257,7 @@
       "strategies": [
         {
           "title": "Digital Italy 2023-2026",
-          "description": "",
+          "description": "Outlines Italy’s national digital strategy under the National Recovery and Resilience Plan (PNRR), detailing the progress achieved between 2021 and 2022 and laying out planned initiatives for 2023–2026 across ultra-broadband connectivity, public administration cloud migration, digital health, digital skills, and space technology.",
           "documentUrl": "documents/italy/italy-digital-strategy-2023-2026.pdf",
           "year": 2023,
           "language": "Italian",
@@ -274,7 +274,7 @@
       "strategies": [
         {
           "title": "Digital Health Action Plan 2023-2027",
-          "description": "",
+          "description": "Outlines Lithuania's strategic framework, implementation measures, and evaluation metrics to modernise its national e-health infrastructure (ESPBI IS), enhance cross-system interoperability, expand patient-centred digital services, and advance secondary health data analytics.",
           "documentUrl": "documents/lithuania/lithuania_digital_health_action_plan_2023-2027.pdf",
           "year": 2023,
           "language": "Lithuanian"
@@ -290,7 +290,7 @@
       "strategies": [
         {
           "title": "A National Health Systems Strategy for Malta 2023-2030",
-          "description": "",
+          "description": "Outlines Malta's strategic framework to improve population health through disease prevention, expand integrated and patient-centred community care, support the healthcare workforce, and leverage digital health and research innovation.",
           "documentUrl": "documents/malta/malta_national_health_strategy_2023-2030.pdf",
           "year": 2023,
           "language": "English"
@@ -306,7 +306,7 @@
       "strategies": [
         {
           "title": "Strategy of the e-Health Centre 2023-2027 (summary)",
-          "description": "",
+          "description": "Outlines Poland's strategic framework to expand national e-health services, strengthen cybersecurity, standardise system interoperability, and leverage advanced data analytics using a Balanced Scorecard approach.",
           "documentUrl": "documents/poland/poland_strategy_of_the_e-health_centre_summary_2023-2027.pdf",
           "year": 2023,
           "language": "English"
@@ -321,10 +321,11 @@
       "strategies": [
         {
           "title": "National Strategy for the Health Information Ecosystem 2020-2022",
-          "description": "Preliminary Version for Public Consultation",
+          "description": "Outlines a framework for Portugal's digital health transformation from 2020 to 2022, targeting citizen empowerment, system interoperability, cybersecurity, telehealth expansion, and optimized resource management across the health system.",
           "documentUrl": "documents/portugal/portugal_strategy_health_information_preliminary_2020-2022.pdf",
           "year": 2022,
-          "language": "English"
+          "language": "English",
+          "note": "Preliminary Version for Public Consultation"
         }
       ]
     },
@@ -336,7 +337,7 @@
       "strategies": [
         {
           "title": "e-Health for a Healthier Society Strategy 2022-2027",
-          "description": "",
+          "description": "Outlines Slovenia's national digital health strategy for 2022–2027, establishing a patient-centred framework across six core pillars—governance, financing, services, IT infrastructure, workforce, and legislation—to deploy a unified electronic health record (eKarton), integrate a national telemedicine framework, and create an interoperable, data-driven healthcare ecosystem.",
           "documentUrl": "documents/slovenia/slovenia_ehealth_strategy_2022-2027.pdf",
           "year": 2022,
           "language": "Slovenian"
@@ -351,7 +352,7 @@
       "strategies": [
         {
           "title": "Digital Health Strategy 2021-2026",
-          "description": "",
+          "description": "Outlines Spain's national strategic framework to modernise and unify its public health system by empowering patients, expanding interoperable digital services across autonomous regions, building a National Space for Health Data, and driving 5P (Population, Preventive, Predictive, Personalised, and Participatory) medicine innovations.",
           "documentUrl": "documents/spain/spain_digital_health_strategy_2021-2026.pdf",
           "year": 2021,
           "language": "English"
