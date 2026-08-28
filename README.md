@@ -1,7 +1,7 @@
 # ehealthstrategies
 National eHealth Strategies of Different Countries
 
-![Deploy Website](https://github.com/abrararies/ehealthstrategies/actions/workflows/deploy.yml/badge.svg)
+![Deploy Website](https://github.com/abrarsyedx/ehealthstrategies/actions/workflows/deploy.yml/badge.svg)
 
 A catalogue of **national eHealth / digital
 health strategies**, grouped by world region, so policymakers, regulators,
